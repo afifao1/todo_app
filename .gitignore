@@ -1,5 +1,6 @@
 token.php
-db.phpvendor/
+db.php
+vendor/
 vendor
 .cache/
 .config/
